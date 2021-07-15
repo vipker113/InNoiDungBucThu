@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#letter {
+    width: 500px;
+    margin: auto;
+    padding: 40px;
+    background-color: rgb(240, 216, 184);
+    display: none;
+}
+.doanThu{
+    text-align: justify;
+}
+button {
+    padding: 4px;
+    margin: 12px;
+}
